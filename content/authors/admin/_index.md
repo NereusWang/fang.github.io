@@ -127,11 +127,11 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 85
+        percent: 90
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 70
+        percent: 75
         icon: cat
       - name: Photography
         description: ''
