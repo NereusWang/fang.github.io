@@ -21,7 +21,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanghai Institute of Microsystems and Information Technology, Chinese Academy of Sciences
+  - name: **Shanghai Institute of Microsystems and Information Technology, Chinese Academy of Sciences**
     url: http://www.sim.ac.cn
 
 # Social network links
@@ -98,10 +98,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-09-01
-    date_end: '2021-07-01'
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_end: 2021-07-01
       
   - position: Academic Project2 - Artificial Intelligence Chip and Brain Computer Interface Project
     company_name: Department of Electronics & SE, University of Pennsylvania (UPenn), United States of America
