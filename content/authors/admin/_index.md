@@ -45,12 +45,7 @@ education:
     date_start: 2023-09-01
     date_end: 2026-07-01
     summary: |
-      Research on _Intelligent Sensors with AI algorithms (Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on. 
-    button:
-      text: 'Read Research Articles'
-      url: 'https://ieeexplore.ieee.org/author/37089747305'
-
-    summary: |
+      Research on _Intelligent Sensors with AI algorithms (Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on.
       Research Articles:
       - **Fang Wang**, Heng Yang, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Instant Phonic Braille Recognition System Based on High-density Flexible Tactile Sensor Array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. Poster Presentation.
       - Yi Sun, Ke Sun, **Fang Wang**, Heng Yang, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Arterial Stiffness Measuring Wristwatch with Flexible Tactile Sensing Dense-array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. Oral Presentation.
@@ -59,6 +54,9 @@ education:
       - Hao Yu, Ke Sun, Chaoyue Zheng, **Fang Wang**, Heng Yang, and Xinxin Li*. Stress Induced Gap Closing Electrodes for Silicon Resonators Enabling Low Bias Voltage and Equivalent Resistance. _The 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers 2023)_. Poster Presentation.
       - **F. Wang**, H. Yang, K. Sun, Y. Sun and X. Li, "Non-Invasive Instant Measurement of Arterial Stiffness Based on High-Density Flexible Sensor Array," _2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2023)_. Poster Presentation.
       - **Fang Wang**, Jianing Jing, et al. Gesture Recognition Based on sEMG and Support Vector Machine, _2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI 2021)_.
+    button:
+      text: 'Read Research Articles'
+      url: 'https://ieeexplore.ieee.org/author/37089747305'
     
   - area: M.Eng. in Electronic and Information Engineering
     institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
