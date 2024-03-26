@@ -21,8 +21,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Shanghai Inst of Microsystems & IT
-    url: https://www.example.com/
+  - name: Shanghai Institute of Microsystems and Information Technology, Chinese Academy of Sciences
+    url: http://www.sim.ac.cn
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -45,7 +45,7 @@ education:
     date_start: 2023-09-01
     date_end: 2026-07-01
     summary: |
-      Research on _Artificial intelligence with snesors_. Supervised by [Prof Heng Yang](https://people.ucas.edu.cn/~0004665). Currently, presented 5 research articles in IEEE MEMS, TRANSDUCERS and so on. 
+      Research on _Intelligent Sensors with AI algorithms (Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 6 research articles in IEEE MEMS, TRANSDUCERS and so on. 
     button:
       text: 'Read Research Articles'
       url: 'https://ieeexplore.ieee.org/author/37089747305'
@@ -54,46 +54,32 @@ education:
     date_start: 2020-09-01
     date_end: 2023-07-01
     summary: |
+      Research Thesis: _Perception and Recognition of Pulse Signal Based on High-density Flexible Sensor Array_. 
       GPA: 3.85/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Awards included:
+      - Third Prize of the Director's Scholarship by Chinese Academy of Sciences in 2023.
+      - National Third Prize of the 8th 3S Cup National IoT Technology and Application Competition by  Chinese Institute of Electronics (CIE) & China Institute of Communications (CIC).
+      - National First Prize of China Engineering Robot Competition & International Open by Chinese Association for Artificial Intelligence (CAAI).
+      - National First Prize of the 9th Digital Media Scientific and Technological Work Competition by Ministry of Science and Technology of the People´s Republic of China.
+      - National Third Prize of the 9th Science and Technology Resource Sharing Service Innovation Competition by CAAI.
+      - National Second Prize of the 7th Cup National IoT Technology and Application Competition by CIE & CIC.
+      - Bronze Award of TCL National Science and Technology Innovation Competition by TCL Technology Group Corporation.
+      - National Second Prize of the 10th APMCM Asia Pacific Mathematical Modeling Competition by Beijing Society of Image and Graphics.
   - area: B.Eng. in Communication Engineering
     institution: College of Electrical & Information Engineering, Xi’an Technological University
     date_start: 2016-09-01
     date_end: 2020-07-01
     summary: |
+      Thesis: _Design of BLE Indoor Positioning System Based on RSSI_, Excellent Graduation Thesis.
       GPA: 3.16/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Awards included:
+      - Excellent Academic Summer Camper by Shanghai Inst. of Microsystem & IT, Chinese Academy of Sciences.
+      - Outstanding Graduates by Xi’an Technological University.
+      - National First Prize of the 12th 'Authentication Cup' Mathematical Modeling Network Challenge.
+      - National Third Prize of the 'Zhong Qing Cup' National Undergraduate Mathematical Modeling Competition.
+      - Provincial Second Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
+      - Honorable Mention of the the 7th China Mathematical Modeling International Competition.
+      - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -102,15 +88,15 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent: 75
         icon: devicon/rstudio
       - name: PyTorch
         description: ''
-        percent: 40
+        percent: 85
         icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
@@ -118,24 +104,24 @@ skills:
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        percent: 85
         icon: person-simple-walk
       - name: Cats
         description: ''
-        percent: 100
+        percent: 70
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
+        percent: 95
         icon: camera
 
 languages:
   - name: English
-    percent: 100
+    percent: 90
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Japanese
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
