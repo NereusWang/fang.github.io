@@ -93,6 +93,7 @@ education:
       - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
 # Academic Project
+academic projects:
   - area: Academic Project1 - Academic courses for M.Eng. in Electronic and Information Engineering
     institution: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
     date_start: 2020-09-01
