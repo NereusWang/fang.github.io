@@ -24,7 +24,7 @@ sections:
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em; font-weight: bold'
+        style: 'text-align: justify; font-size: 0.8em; font-weight: bold;'
   - block: experience
     content:
       username: admin
