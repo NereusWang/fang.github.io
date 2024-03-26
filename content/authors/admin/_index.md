@@ -43,7 +43,7 @@ education:
   - area: PhD in Microelectronics and Solid State Electronics
     institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
     date_start: 2023-09-01
-    date_end: 2026-07-01
+    date_end: 2026-07-01 (expected)
     summary: |
       Research on _Intelligent Sensors with AI algorithms (Tactile Sensor Array, Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on.
 
@@ -164,4 +164,4 @@ awards:
       Focusing on the theme of bio-intelligence and artificial intelligence synergy,I have independently designed an Attention Mechanism Graph Adversarial Neural Network Model, integrating contact wearable devices, non-contact tactile sensing devices with artificial intelligence and human-computer interaction technology and controlled the movement of the robot through different gestures and human posture. The combination of mobile robots is designed to jointly complete the gesture trauma rehabilitation application of human-computer interaction smart medical treatment.
 ---
 
-I am currently PhD candidate of Shanghai Institute of Microsystems and Information Technology in Chinese Academy of Sciences. My research interests includes: intelligent sensors (tactile sensors, wearable sensors), artificial intelligence algorithms (machine learning, deep learning), human-computer interaction and so on.
+I am currently PhD candidate of Shanghai Institute of Microsystems and Information Technology in Chinese Academy of Sciences. My research interests includes: intelligent sensors (tactile sensors, wearable sensors), artificial intelligence algorithms (machine learning, deep learning), human-computer interaction and so on. 
