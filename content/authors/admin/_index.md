@@ -58,7 +58,8 @@ education:
     date_end: 2023-07-01
     summary: |
       Research Thesis: _Perception and Recognition of Pulse Signal Based on High-density Flexible Sensor Array_. GPA: 3.85/4.0
-    Awards included:
+
+      Awards included:
       - Third Prize of the Director's Scholarship by Chinese Academy of Sciences in 2023.
       - National Third Prize of the 8th 3S Cup National IoT Technology and Application Competition by  Chinese Institute of Electronics (CIE) & China Institute of Communications (CIC).
       - National First Prize of China Engineering Robot Competition & International Open by Chinese Association for Artificial Intelligence (CAAI).
@@ -67,6 +68,7 @@ education:
       - National Second Prize of the 7th Cup National IoT Technology and Application Competition by CIE & CIC.
       - Bronze Award of TCL National Science and Technology Innovation Competition by TCL Technology Group Corporation.
       - National Second Prize of the 10th APMCM Asia Pacific Mathematical Modeling Competition by Beijing Society of Image and Graphics.
+ 
   - area: B.Eng. in Communication Engineering
     institution: College of Electrical & Information Engineering, Xi’an Technological University
     date_start: 2016-09-01
