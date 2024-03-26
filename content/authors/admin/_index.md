@@ -45,12 +45,20 @@ education:
     date_start: 2023-09-01
     date_end: 2026-07-01
     summary: |
-      Research on _Intelligent Sensors with AI algorithms (Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 6 research articles in IEEE MEMS, TRANSDUCERS and so on. 
+      Research on _Intelligent Sensors with AI algorithms (Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on. 
     button:
       text: 'Read Research Articles'
       url: 'https://ieeexplore.ieee.org/author/37089747305'
-    Awards included:
-      - Third Prize of the Director's Scholarship by Chinese Academy of Sciences in 2023.
+
+    summary: |
+      Research Articles:
+      - **Fang Wang**, Heng Yang, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Instant Phonic Braille Recognition System Based on High-density Flexible Tactile Sensor Array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. Poster Presentation.
+      - Yi Sun, Ke Sun, **Fang Wang**, Heng Yang, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Arterial Stiffness Measuring Wristwatch with Flexible Tactile Sensing Dense-array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. Oral Presentation.
+      - **Fang Wang**, Heng Yang, Ke Sun, Yi Sun* and Xinxin Li*. Continuous Cuffless Monitoring of Arterial Blood Pressure Based on High-density Flexible Sensor Array, _The 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers 2023)_. Oral Presentation.
+      - Yi Sun, **Fang Wang**, Ke Sun, Heng Yang, Xinxin Li*. Array Automatic Vascular Localization with a Flexible Tactile Sensing Dense-array, Transducers - _The 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers 2023)_. Poster Presentation.
+      - Hao Yu, Ke Sun, Chaoyue Zheng, **Fang Wang**, Heng Yang, and Xinxin Li*. Stress Induced Gap Closing Electrodes for Silicon Resonators Enabling Low Bias Voltage and Equivalent Resistance. _The 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers 2023)_. Poster Presentation.
+      - **F. Wang**, H. Yang, K. Sun, Y. Sun and X. Li, "Non-Invasive Instant Measurement of Arterial Stiffness Based on High-Density Flexible Sensor Array," _2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2023)_. Poster Presentation.
+      - **Fang Wang**, Jianing Jing, et al. Gesture Recognition Based on sEMG and Support Vector Machine, _2021 IEEE International Conference on Robotics, Automation and Artificial Intelligence (RAAI 2021)_.
     
   - area: M.Eng. in Electronic and Information Engineering
     institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
@@ -75,7 +83,8 @@ education:
     date_end: 2020-07-01
     summary: |
       Thesis: _Design of BLE Indoor Positioning System Based on RSSI_, Excellent Graduation Thesis. GPA: 3.16/4.0
-    Awards included:
+
+      Awards included:
       - Excellent Academic Summer Camper by Shanghai Inst. of Microsystem & IT, Chinese Academy of Sciences.
       - Outstanding Graduates by Xi’an Technological University.
       - National First Prize of the 12th 'Authentication Cup' Mathematical Modeling Network Challenge.
