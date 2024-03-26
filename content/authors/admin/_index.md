@@ -46,6 +46,7 @@ education:
     date_end: 2026-07-01
     summary: |
       Research on _Intelligent Sensors with AI algorithms (Tactile Sensor Array, Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on.
+
       Research Articles:
       - **Fang Wang**, Heng Yang, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Instant Phonic Braille Recognition System Based on High-density Flexible Tactile Sensor Array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. Poster Presentation.
       - Yi Sun, Ke Sun, **Fang Wang**, Heng Yang, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Arterial Stiffness Measuring Wristwatch with Flexible Tactile Sensing Dense-array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. **Oral Presentation**.
