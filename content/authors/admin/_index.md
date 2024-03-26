@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: PhD Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
+  - name: Shanghai Inst of Microsystems & IT
     url: https://www.example.com/
 
 # Social network links
@@ -40,32 +40,32 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Microelectronics and Solid State Electronics
-    institution: Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
+  - area: PhD in Microelectronics and Solid State Electronics
+    institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
     date_start: 2023-09-01
-    date_end: 2026-07-01
+    date_end: At Present
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Research on _Artificial intelligence with snesors_. Supervised by [Prof Heng Yang](https://people.ucas.edu.cn/~0004665). Currently, presented 5 research articles in IEEE MEMS, TRANSDUCERS and so on. 
     button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      text: 'Read Research Articles'
+      url: 'https://ieeexplore.ieee.org/author/37089747305'
+  - area: M.Eng. in Electronic and Information Engineering
+    institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
+    date_start: 2020-09-01
+    date_end: 2023-07-01
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.85/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.Eng. in Communication Engineering
+    institution: College of Electrical & Information Engineering, Xi’an Technological University
+    date_start: 2016-09-01
+    date_end: 2020-07-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.16/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
