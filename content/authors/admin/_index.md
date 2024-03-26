@@ -91,13 +91,12 @@ education:
       - Honorable Mention of the the 7th China Mathematical Modeling International Competition.
       - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
-# academic projects
-  - area: Academic Project_1: Academic courses for M.Eng. in Electronic and Information Engineering
+  - area: Academic Project: Academic courses for M.Eng. in Electronic and Information Engineering
     institution: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
     date_start: 2020-09-01
     date_end: 2021-07-01
   
-  - area: Academic Project_2: Artificial Intelligence Chip and Brain Computer Interface Project
+  - area: Academic Project: Artificial Intelligence Chip and Brain Computer Interface Project
     institution: Department of Electronics & SE, University of Pennsylvania (UPenn), U.S.A
     date_start: 2020-11-01
     date_end: 2021-03-01
