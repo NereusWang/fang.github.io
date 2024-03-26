@@ -43,7 +43,7 @@ education:
   - area: PhD in Microelectronics and Solid State Electronics
     institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
     date_start: 2023-09-01
-    date_end: At Present
+    date_end: 2026-07-01
     summary: |
       Research on _Artificial intelligence with snesors_. Supervised by [Prof Heng Yang](https://people.ucas.edu.cn/~0004665). Currently, presented 5 research articles in IEEE MEMS, TRANSDUCERS and so on. 
     button:
