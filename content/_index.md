@@ -24,7 +24,7 @@ sections:
         filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
       biography:
         # Customize the style of your biography text
-        style: 'text-align: justify; font-size: 0.8em; font-weight: bold;'
+        style: 'text-align: justify; font-size: 0.8em;'
   - block: experience
     content:
       username: admin
@@ -32,11 +32,7 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
-  - block: academic projects
-    content:
-      title: Academic Projects
-      username: admin
+      is_education_first: True
   - block: skills
     content:
       title: Skills & Hobbies
