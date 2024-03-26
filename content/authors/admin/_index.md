@@ -91,7 +91,7 @@ education:
       - Honorable Mention of the the 7th China Mathematical Modeling International Competition.
       - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
-academic projects:
+# academic projects
   - area: Academic courses for M.Eng. in Electronic and Information Engineering
     institution: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
     date_start: 2020-09-01
