@@ -92,18 +92,26 @@ education:
       - Honorable Mention of the the 7th China Mathematical Modeling International Competition.
       - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
-experience:
-  - area: Academic Project1 - Academic courses for M.Eng. in Electronic and Information Engineering
-    institution: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
+work:
+  - position: Academic Project1 - Academic courses for M.Eng. in Electronic and Information Engineering
+    company_name: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
+    company_url: ''
+    company_logo: ''
     date_start: 2020-09-01
-    date_end: 2021-07-01
-  
-  - area: Academic Project2 - Artificial Intelligence Chip and Brain Computer Interface Project
-    institution: Department of Electronics & SE, University of Pennsylvania (UPenn), U.S.A
+    date_end: '2021-07-01'
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
+  - position: Academic Project2 - Artificial Intelligence Chip and Brain Computer Interface Project
+    company_name: Department of Electronics & SE, University of Pennsylvania (UPenn), United States of America
+    company_url: ''
+    company_logo: ''
     date_start: 2020-11-01
     date_end: 2021-03-01
     summary: |
       Research on _Gesture Recognition Based on sEMG with Machine Learning Algorithms_. Supervised by [Prof Jan Van der Spiegel](https://www.seas.upenn.edu/~jan/).
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
