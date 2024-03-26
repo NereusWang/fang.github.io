@@ -1,5 +1,5 @@
 ---
-title: 'Fang'
+title: 'Fang Wang'
 date: 2023-10-24
 type: landing
 
