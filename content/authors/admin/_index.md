@@ -21,7 +21,7 @@ role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: **Shanghai Institute of Microsystems and Information Technology, Chinese Academy of Sciences**
+  - name: Shanghai Institute of Microsystems and Information Technology, Chinese Academy of Sciences
     url: http://www.sim.ac.cn
 
 # Social network links
