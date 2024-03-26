@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 王放
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Wang Fang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Fang
+last_name: Wang
 
 # Status emoji
 status:
@@ -28,7 +28,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:f.wang@mail.sim.ac.cn'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -40,10 +40,10 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Microelectronics and Solid State Electronics
+    institution: Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
+    date_start: 2023-09-01
+    date_end: 2026-07-01
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
