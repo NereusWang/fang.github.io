@@ -3,7 +3,7 @@
 title: 王放
 
 # Name pronunciation (optional)
-name_pronunciation: Wang Fang
+name_pronunciation: WANG FANG
 
 # Full name (for SEO)
 first_name: Fang
