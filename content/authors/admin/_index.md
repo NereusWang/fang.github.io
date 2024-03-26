@@ -45,7 +45,7 @@ education:
     date_start: 2023-09-01
     date_end: 2026-07-01
     summary: |
-      Research on _Intelligent Sensors with AI algorithms (Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on.
+      Research on _Intelligent Sensors with AI algorithms (Tactile Sensor Array, Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on.
       Research Articles:
       - **Fang Wang**, Heng Yang, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Instant Phonic Braille Recognition System Based on High-density Flexible Tactile Sensor Array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. Poster Presentation.
       - Yi Sun, Ke Sun, **Fang Wang**, Heng Yang, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Arterial Stiffness Measuring Wristwatch with Flexible Tactile Sensing Dense-array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. **Oral Presentation**.
@@ -91,17 +91,18 @@ education:
       - Honorable Mention of the the 7th China Mathematical Modeling International Competition.
       - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
-## academic projects
 # academic projects
-  - area: Academic courses for M.Eng. in Electronic and Information Engineering
+  - area: Academic Project_1: Academic courses for M.Eng. in Electronic and Information Engineering
     institution: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
     date_start: 2020-09-01
     date_end: 2021-07-01
   
-  - area: Artificial Intelligence Chip and Brain Computer Interface Project
+  - area: Academic Project_2: Artificial Intelligence Chip and Brain Computer Interface Project
     institution: Department of Electronics & SE, University of Pennsylvania (UPenn), U.S.A
     date_start: 2020-11-01
     date_end: 2021-03-01
+    summary: |
+      Research on _Gesture Recognition Based on sEMG with Machine Learning Algorithms_. Supervised by [Prof Jan Van der Spiegel](https://www.seas.upenn.edu/~jan/).
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
