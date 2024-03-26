@@ -31,9 +31,9 @@ profiles:
     url: 'mailto:f.wang@mail.sim.ac.cn'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/nereus2022
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/NereusWang
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: brands/instagram
@@ -49,14 +49,16 @@ education:
     button:
       text: 'Read Research Articles'
       url: 'https://ieeexplore.ieee.org/author/37089747305'
+    Awards included:
+      - Third Prize of the Director's Scholarship by Chinese Academy of Sciences in 2023.
+    
   - area: M.Eng. in Electronic and Information Engineering
     institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
     date_start: 2020-09-01
     date_end: 2023-07-01
     summary: |
-      Research Thesis: _Perception and Recognition of Pulse Signal Based on High-density Flexible Sensor Array_. 
-      GPA: 3.85/4.0
-      Awards included:
+      Research Thesis: _Perception and Recognition of Pulse Signal Based on High-density Flexible Sensor Array_. GPA: 3.85/4.0
+    Awards included:
       - Third Prize of the Director's Scholarship by Chinese Academy of Sciences in 2023.
       - National Third Prize of the 8th 3S Cup National IoT Technology and Application Competition by  Chinese Institute of Electronics (CIE) & China Institute of Communications (CIC).
       - National First Prize of China Engineering Robot Competition & International Open by Chinese Association for Artificial Intelligence (CAAI).
@@ -70,9 +72,8 @@ education:
     date_start: 2016-09-01
     date_end: 2020-07-01
     summary: |
-      Thesis: _Design of BLE Indoor Positioning System Based on RSSI_, Excellent Graduation Thesis.
-      GPA: 3.16/4.0
-      Awards included:
+      Thesis: _Design of BLE Indoor Positioning System Based on RSSI_, Excellent Graduation Thesis. GPA: 3.16/4.0
+    Awards included:
       - Excellent Academic Summer Camper by Shanghai Inst. of Microsystem & IT, Chinese Academy of Sciences.
       - Outstanding Graduates by Xi’an Technological University.
       - National First Prize of the 12th 'Authentication Cup' Mathematical Modeling Network Challenge.
