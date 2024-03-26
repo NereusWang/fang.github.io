@@ -92,9 +92,7 @@ education:
       - Honorable Mention of the the 7th China Mathematical Modeling International Competition.
       - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
-# Academic Project
-#   Add/remove as many projects below as you like.
-academic projects:
+experience:
   - area: Academic Project1 - Academic courses for M.Eng. in Electronic and Information Engineering
     institution: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
     date_start: 2020-09-01
@@ -166,4 +164,4 @@ awards:
       <p align="justify"> Focusing on the theme of bio-intelligence and artificial intelligence synergy,I have independently designed an Attention Mechanism Graph Adversarial Neural Network Model, integrating contact wearable devices, non-contact tactile sensing devices with artificial intelligence and human-computer interaction technology and controlled the movement of the robot through different gestures and human posture. The combination of mobile robots is designed to jointly complete the gesture trauma rehabilitation application of human-computer interaction smart medical treatment. </p>
 ---
 
-I am a Ph.D. candidate in State Key Laboratory Transducer Technolog, Shanghai Institute of Microsystems and Information Technology, Chinese Academy of Sciences. My research interests includes: intelligent sensors (tactile sensors, wearable sensors, MEMS), artificial intelligence algorithms for sciences (machine learning, deep learning), human-computer interaction and so on. Currently, my researches focus on: 1.Flexible tactile sensor array for biomedical and robotics, 2. Artificial intelligence for industrial machine optimization.
+<p align="strong"> I am a Ph.D. candidate in State Key Laboratory Transducer Technolog, Shanghai Institute of Microsystems and Information Technology, Chinese Academy of Sciences. My research interests includes: intelligent sensors (tactile sensors, wearable sensors, MEMS), artificial intelligence algorithms for sciences (machine learning, deep learning), human-computer interaction and so on. Currently, my researches focus on: 1.Flexible tactile sensor array for biomedical and robotics, 2. Artificial intelligence for industrial machine optimization. </p>
