@@ -45,9 +45,12 @@ education:
     date_start: 2023-09-01
     date_end: 2026-07-01
     summary: |
-      Research on _Intelligent Sensors with AI algorithms (Tactile Sensor Array, Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 7 research articles in IEEE MEMS, TRANSDUCERS and so on.
+      Research on _Intelligent Sensors with AI algorithms (Tactile Sensor Array, Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 10 research articles in IEEE MEMS, TRANSDUCERS, IEEE EMBC and so on.
 
       Research Articles:
+      - **Fang Wang**, Heng Yang, Yue He, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Instant Tumor Detection Method for Ex-Vivo Tissue Palpation Utilizing Self-Learning High-Density Flexible Tactile Sensor Array Based on Attention Mechanism Neural Network, _The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024)_.
+      - Yi Sun, **Fang Wang**, Yue He, Ke Sun, Heng Yang, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Arterial Pulse Signal Acquiring Wristwatch with Flexible Tactile Sensing Dense-Array, _The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024)_.
+      - Yue He, **Fang Wang**, Quan Wang, Heng Yang, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, Investigation of vascular morphology prediction based on high dimensional pulse acquisition system and finite element methods, _The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024)_.
       - **Fang Wang**, Heng Yang, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Instant Phonic Braille Recognition System Based on High-density Flexible Tactile Sensor Array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. Poster Presentation.
       - Yi Sun, Ke Sun, **Fang Wang**, Heng Yang, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Arterial Stiffness Measuring Wristwatch with Flexible Tactile Sensing Dense-array, _The 37th International Conference on Micro Electro Mechanical Systems (IEEE MEMS 2024)_. **Oral Presentation**.
       - **Fang Wang**, Heng Yang, Ke Sun, Yi Sun* and Xinxin Li*. Continuous Cuffless Monitoring of Arterial Blood Pressure Based on High-density Flexible Sensor Array, _The 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers 2023)_. **Oral Presentation**.
@@ -93,7 +96,7 @@ education:
       - Provincial First Prize of the 'Higher Education Society Cup' National College Mathematical Modeling Competition.
 
 work:
-  - position: Academic Project1 - Academic courses for M.Eng. in Electronic and Information Engineering
+  - position: Academic Project1 - Academic Courses for M.Eng. in Electronic and Information Engineering
     company_name: Department of Electronic Science and technology, University of Science and Technology of China (USTC), China
     company_url: ''
     company_logo: ''
