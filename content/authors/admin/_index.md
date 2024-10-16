@@ -48,7 +48,8 @@ education:
       Research on _Intelligent Sensors with AI algorithms (Tactile Sensor Array, Machine Learning, Deep Learning)_. Supervised by [Prof H.Yang](https://people.ucas.edu.cn/~0004665). Currently, I have presented 10 research articles in IEEE MEMS, TRANSDUCERS, IEEE EMBC and so on.
 
       Research Articles:
-      - **Fang Wang**, Ke Sun, Yi Sun*, Heng Yang* and Xinxin Li*, Braille Tactile-to-Auditory Conversion System Based on Self-Learning Flexible Tactile Sensor Array with Attention-Mechanism Model, _IEEE Sensors Journal, doi: 10.1109/JSEN.2024.3462418._.
+      - **Fang Wang**, Ke Sun, Yi Sun*, Heng Yang* and Xinxin Li*, Braille Tactile-to-Auditory Conversion System Based on Self-Learning Flexible Tactile Sensor Array with Attention-Mechanism Model, _**IEEE Sensors Journal**, doi: 10.1109/JSEN.2024.3462418._.
+      - **Fang Wang**, Hao Yu, Yechen Miao, Ke Sun, Xinxin Li, Yi Sun* and Heng Yang*, AI-Driven Parameters Optimization of Smooth Vertical Sidewall Trench in DRIE Process Based on Neural Network, _Proceedings of the IEEE 2024 Prognostics and System Health Management Conference (PHM-2024 Beijing), Beijing, China, 2024._
       - **Fang Wang**, Heng Yang, Yue He, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Instant Tumor Detection Method for Ex-Vivo Tissue Palpation Utilizing Self-Learning High-Density Flexible Tactile Sensor Array Based on Attention Mechanism Neural Network, _The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024)_.
       - Yi Sun, **Fang Wang**, Yue He, Ke Sun, Heng Yang, Xikun Zheng, Jingqing Hu, and Xinxin Li*, An Arterial Pulse Signal Acquiring Wristwatch with Flexible Tactile Sensing Dense-Array, _The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024)_.
       - Yue He, **Fang Wang**, Quan Wang, Heng Yang, Ke Sun, Yi Sun*, Xikun Zheng, Jingqing Hu, and Xinxin Li*, Investigation of vascular morphology prediction based on high dimensional pulse acquisition system and finite element methods, _The 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (IEEE EMBC 2024)_.
@@ -62,7 +63,10 @@ education:
     button:
       text: 'Read Research Articles'
       url: 'https://ieeexplore.ieee.org/author/37089747305'
-    
+      
+      Awards included:
+      - National Third Prize of the 10th 3S Cup National IoT Technology and Application Competition by China Institute of Communications (CIC).
+
   - area: M.Eng. in Electronic and Information Engineering
     institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
     date_start: 2020-09-01
@@ -72,7 +76,7 @@ education:
 
       Awards included:
       - Third Prize of the Director's Scholarship by Chinese Academy of Sciences in 2023.
-      - National Third Prize of the 8th 3S Cup National IoT Technology and Application Competition by  Chinese Institute of Electronics (CIE) & China Institute of Communications (CIC).
+      - National Third Prize of the 8th 3S Cup National IoT Technology and Application Competition by Chinese Institute of Electronics (CIE) & China Institute of Communications (CIC).
       - National First Prize of China Engineering Robot Competition & International Open by Chinese Association for Artificial Intelligence (CAAI).
       - National First Prize of the 9th Digital Media Scientific and Technological Work Competition by Ministry of Science and Technology of the People´s Republic of China.
       - National Third Prize of the 9th Science and Technology Resource Sharing Service Innovation Competition by CAAI.
