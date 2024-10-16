@@ -63,9 +63,6 @@ education:
     button:
       text: 'Read Research Articles'
       url: 'https://ieeexplore.ieee.org/author/37089747305'
-      
-      Awards included:
-      - National Third Prize of the 10th 3S Cup National IoT Technology and Application Competition by China Institute of Communications (CIC).
 
   - area: M.Eng. in Electronic and Information Engineering
     institution: State Key Laboratory Transducer Technology, Shanghai Inst of Microsystems & IT, Chinese Academy of Sciences
